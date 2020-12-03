@@ -24,18 +24,13 @@ PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm The group manager bot of [Cinemates ™](https://t.me/CinematesChannel) 
+I'm The group manager bot of [Cinemates ™](https://t.me/CinematesChannel) 🎗
 
 Activate Anti-spam protection in your BM by this command : 
-/antispam on 
+/antispam on 🚫
+[Cinemates✨](https://telegra.ph/file/3a95aa2c9b7345ff4fd9a.jpg) 
 
-Made from the source code of [Mr.Vasu Drlg](www.github.com/vasudrlg/Cenemates) 
-
-
-
-
-
-
+Made from the source code of [Mr.Vasu Drlg](www.github.com/vasudrlg/Cenemates) 🖥
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
